@@ -4,4 +4,8 @@
 - 💞️ I’m looking to collaborate on project that will expend my skills growth
 - 📫 How to reach me mbidageorgette@gmail.com
 
+### Social Media 
+@github @LinkedIn @Facebook @Instagram @youtube
 
+### Tech Stack:
+@CSS3 @HTML
