@@ -8,4 +8,4 @@
 @github @LinkedIn @Facebook @Instagram @youtube
 
 ### Tech Stack:
-@CSS3 @HTML
+@CSS3 @HTML JavaScript REACT 
