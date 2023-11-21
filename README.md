@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Olinga Georgette
+- 👀 I’m curious in knowing the technology behind the USER INTERFACE (UI)
+- 🌱 I’m currently learning Software engineering with Per Scholas.
+- 💞️ I’m looking to collaborate on project that will expend my skills growth
+- 📫 How to reach me mbidageorgette@gmail.com
+
+
